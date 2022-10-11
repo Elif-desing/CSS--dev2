@@ -1,0 +1,31 @@
+.box{
+    background-color: rgb(214, 213, 213);
+    color: black;
+    padding: 25px;
+
+    
+}
+.second-box{
+    background-color: rgb(110, 204, 204);
+    color: black;
+    float:left;
+    height: 85px;
+    width: 400px;
+    padding: 50px;;
+}
+.third-box{
+    background-color: rgb(124, 187, 187);
+    float:left;
+    width: 400px;
+    height: 160px;
+    padding-bottom: 25px;
+    text-align:center;
+}
+.fourth-box{
+    background-color: rgb(76, 161, 161);
+    float: left;
+    width: 333px;
+    height: 85px;
+    padding: 50px;
+}
+
